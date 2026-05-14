@@ -53,7 +53,7 @@ export default defineConfig({
   base: '/Reburn_the_Galaxy/',
 
   locales: {
-    root: {
+    zh: {
       label: '中文',
       lang: 'zh-CN',
       link: '/zh/',
