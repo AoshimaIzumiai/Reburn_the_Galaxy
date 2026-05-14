@@ -1,0 +1,26 @@
+/* docs/.vitepress/theme/custom.css */
+
+/* 章节页面正文字体：serif 字族 */
+.vp-doc {
+  font-family: 'Georgia', 'Noto Serif SC', 'Source Han Serif', serif;
+  line-height: 1.85;
+}
+
+/* 限制内容列宽为 70ch */
+.vp-doc .content-container,
+.VPDoc .container {
+  max-width: 70ch;
+}
+
+/* 段落间距 */
+.vp-doc p {
+  margin: 1.2em 0;
+}
+
+/* 引言块样式（用于章节题词） */
+.vp-doc blockquote {
+  font-style: italic;
+  border-left: 3px solid var(--vp-c-brand);
+  padding-left: 1em;
+  color: var(--vp-c-text-2);
+}
