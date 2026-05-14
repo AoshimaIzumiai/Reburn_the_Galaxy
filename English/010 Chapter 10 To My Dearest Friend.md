@@ -1,6 +1,6 @@
 # Chapter 10: To My Dearest Friend
 
-> "Though fate may delay, it will come."
+> "To each his day is given, brief and irreversible is the span of life for all."
 >
 > — Virgil, *The Aeneid*
 

@@ -64,6 +64,8 @@ This project is a non-commercial fanfiction and is not affiliated with the origi
 
 《Phoenix II》及其相关内容版权归 **Firi Games** 所有。本作品为非商业性质的同人创作，与原开发团队无官方关联。
 
+本网站遵守 Phoenix II 官方隐私政策。| This site complies with the [Phoenix II Privacy Policy](https://firigames.com/phoenix2/privacy).
+
 </div>
 
 <style>
